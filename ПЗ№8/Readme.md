@@ -1,0 +1,1 @@
+![Скриншот](Screenshot.png)
